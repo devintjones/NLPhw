@@ -1,0 +1,231 @@
+# stack 0, ldep rdep buf and stack
+# corresponds to + signs in table 3.2
+
+english model:
+UAS: 0.576665840971 
+LAS: 0.546445380233
+swedish model:
+UAS: 0.701453893647 
+LAS: 0.598685520813
+korean model:
+UAS: 0.667825415218 
+LAS: 0.514098107377
+danish model:
+UAS: 0.764071856287 
+LAS: 0.688822355289
+
+# added stack 1 feature
+
+english model:
+UAS: 0.579886054 
+LAS: 0.55115184543
+swedish model:
+UAS: 0.73790081657 
+LAS: 0.629755028879
+korean model:
+UAS: 0.64426419467 
+LAS: 0.492854383932
+danish model:
+UAS: 0.75748502994 
+LAS: 0.682435129741
+
+# added buffer 1 feature
+
+english model:
+UAS: 0.78449343572 
+LAS: 0.753282140203
+swedish model:
+UAS: 0.77713602868 
+LAS: 0.663214499104
+korean model:
+UAS: 0.709926612592 
+LAS: 0.563924295095
+danish model:
+UAS: 0.794610778443 
+LAS: 0.71497005988
+
+# added buffer 2,3 features
+
+english model:
+UAS: 0.766906118405 
+LAS: 0.733217735943
+swedish model:
+UAS: 0.768771161123 
+LAS: 0.655247958574
+korean model:
+UAS: 0.710312862109 
+LAS: 0.566628041715
+danish model:
+UAS: 0.791616766467 
+LAS: 0.710179640719
+total_score: 14.0
+percentage of 35: 0.4
+
+english model:
+UAS: 0.764429031459 
+LAS: 0.731731483775
+swedish model:
+UAS: 0.768372834097 
+LAS: 0.653853813981
+korean model:
+UAS: 0.712244109695 
+LAS: 0.569331788335
+danish model:
+UAS: 0.794211576846 
+LAS: 0.714570858283
+
+
+# concate 1st and 3rd pos in buffer
+korean model:
+UAS: 0.717651602935 
+LAS: 0.579374275782
+
+swedish model:
+UAS: 0.751244771958 
+LAS: 0.641107349134
+total_score: 14.0
+percentage of 35: 0.4
+total_score: 31.6621217696
+percentage of 35: 0.904632050561
+korean model:
+UAS: 0.706450366937 
+LAS: 0.559289300888
+swedish model:
+UAS: 0.751643098984 
+LAS: 0.639514041028
+
+# added stack1 feats
+
+korean model:
+UAS: 0.705291618385 
+LAS: 0.56044804944
+swedish model:
+UAS: 0.750248954392 
+LAS: 0.639713204541
+
+# concat stack0,1 pos
+korean model:
+UAS: 0.7033603708 
+LAS: 0.55774430282
+swedish model:
+UAS: 0.751643098984 
+LAS: 0.641306512647
+
+# remove all pos
+
+korean model:
+UAS: 0.289300888374 
+LAS: 0.151796060255
+
+# added all pos but stack01
+
+korean model:
+UAS: 0.715334105832 
+LAS: 0.577829277713
+
+korean model:
+UAS: 0.714561606798 
+LAS: 0.573194283507
+korean model:
+UAS: 0.71147161066 
+LAS: 0.571263035921
+korean model:
+UAS: 0.714175357281 
+LAS: 0.57551178061
+korean model:
+UAS: 0.734646581692 
+LAS: 0.606797991503
+korean model:
+UAS: 0.736577829278 
+LAS: 0.60988798764
+korean model:
+UAS: 0.73348783314 
+LAS: 0.607570490537
+korean model:
+UAS: 0.73348783314 
+LAS: 0.606797991503
+korean model:
+UAS: 0.733101583623 
+LAS: 0.604480494399
+korean model:
+UAS: 0.736577829278 
+LAS: 0.607570490537
+korean model:
+UAS: 0.731556585554 
+LAS: 0.603321745848
+korean model:
+UAS: 0.731942835071 
+LAS: 0.602549246813
+korean model:
+UAS: 0.740054074932 
+LAS: 0.614522981846
+korean model:
+UAS: 0.709926612592 
+LAS: 0.553109308613
+korean model:
+UAS: 0.737736577829 
+LAS: 0.612977983778
+korean model:
+UAS: 0.727694090382 
+LAS: 0.602549246813
+korean model:
+UAS: 0.736577829278 
+LAS: 0.612977983778
+swedish model:
+UAS: 0.758812985461 
+LAS: 0.652260505875
+korean model:
+UAS: 0.729239088451 
+LAS: 0.604480494399
+korean model:
+UAS: 0.721514098107 
+LAS: 0.606025492468
+korean model:
+UAS: 0.737736577829 
+LAS: 0.61259173426
+korean model:
+UAS: 0.738122827346 
+LAS: 0.613364233295
+korean model:
+UAS: 0.929702587872 
+LAS: 0.782541521823
+english model:
+UAS: 0.864751052762 
+LAS: 0.816943274709
+swedish model:
+UAS: 0.839673371838 
+LAS: 0.711013742282
+korean model:
+UAS: 0.930475086906 
+LAS: 0.780996523754
+danish model:
+UAS: 0.867065868263 
+LAS: 0.769860279441
+english model:
+UAS: 0.862273965816 
+LAS: 0.812979935596
+swedish model:
+UAS: 0.839872535352 
+LAS: 0.710416251743
+korean model:
+UAS: 0.928157589803 
+LAS: 0.782155272306
+danish model:
+UAS: 0.870259481038 
+LAS: 0.771856287425
+total_score: 35.0
+percentage of 35: 1.0
+english model:
+UAS: 0.728511270746 
+LAS: 0.693088927421
+swedish model:
+UAS: 0.763393746266 
+LAS: 0.653654650468
+korean model:
+UAS: 0.738122827346 
+LAS: 0.616454229432
+danish model:
+UAS: 0.769261477046 
+LAS: 0.688822355289
+total_score: 32.0357282691
+percentage of 35: 0.915306521975
